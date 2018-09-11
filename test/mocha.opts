@@ -1,2 +1,2 @@
 --bail
---recursive
+**/*.spec.js
